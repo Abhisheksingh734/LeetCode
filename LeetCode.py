@@ -75,6 +75,7 @@
 #         return ans
 #     ans=[-1,-1]
 #     ans[0]=firstoccurence(nums,target,True)
+
 #     ans[1]=firstoccurence(nums,target,False)
 
     # return ans
